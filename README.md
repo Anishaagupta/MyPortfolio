@@ -1,4 +1,4 @@
 # PortFolio_Website
-A Portfolio Website using Bootstrap, HTML, CSS and a bit javascript. 
+A Portfolio Website using Bootstrap, HTML, CSS and Javascript. 
 
 
